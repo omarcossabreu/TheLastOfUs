@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-- [Acesse o projeto finalizado, online](https://omarcosabreu.github.io/devEmDobro-TheLastOfUs)
+- [Acesse o projeto finalizado, online](https://the-last-of-us-nine.vercel.app/)
 
 ## :memo: Licença
 
